@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Dock Updates</title>
+    <link>https://github.com/gambidrissi-dev/Gambi_dock-Share</link>
+    <description>Mises à jour de Dock</description>
+    <item>
+      <title>Version 1.0.0</title>
+      <description><![CDATA[
+<h3>Zip au nom affiché, comme l'attend publier</h3>
+      ]]></description>
+      <pubDate>Mon, 09 Nov 2026 00:17:53 +0000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/gambidrissi-dev/Gambi_dock-Share/releases/download/v1.0.0/Dock-1.0.0.zip"
+                 sparkle:edSignature="T8mkkc2VJIlaNE9ZjxseULMqR19ldNlR6wl/HGin9ehcHhW/uniMU+0AIvvtv4jqpfgh7K1BaNhF3cTxqQowBg=="
+                 length="2881837"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
